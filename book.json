@@ -1,0 +1,16 @@
+{
+    "title": "ChinaThinksBig 帮助中心",
+    "description": "ChinaThinksBig 帮助中心",
+    "language": "cn",
+    "plugins": [
+        "-sharing",
+        "-search",
+        "search-pro"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        }
+    }
+}
