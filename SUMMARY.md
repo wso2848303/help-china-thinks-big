@@ -2,7 +2,7 @@
 
 * [China Thinks Big 帮助中心](README.md)
 
-## 报名参赛
+## 报名参与
 
 * [参与年龄要求](bao-ming-can-sai/can-yu-nian-ling-yao-qiu.md)
 * [参与国籍要求](bao-ming-can-sai/can-yu-guo-ji-yao-qiu.md)
