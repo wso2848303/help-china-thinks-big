@@ -25,7 +25,7 @@
 * [如何确定CTB课题？](zu-dui-he-xuan-ti/ru-he-que-ding-ctb-ke-ti.md)
 
 ## 参与CTB
-
+* [我的SAT考试和明年CTB全国站展演时间冲突了怎么办？](can-yu-ctb/wo-de-sat-kao-shi.md)
 * [完成报名以后做什么？](can-yu-ctb/wan-cheng-bao-ming-yi-hou-zuo-shen-me.md)
 * [如何建立自己的小队小站？](can-yu-ctb/ru-he-jian-li-zi-ji-de-xiao-dui-xiao-zhan.md)
 <!-- * [如何和CTB往届获奖队伍交流？](can-yu-ctb/ru-he-he-ctb-wang-jie-huo-jiang-dui-wu-jiao-liu.md) -->
